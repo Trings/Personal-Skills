@@ -1,0 +1,4 @@
+interface:
+  display_name: "SLPVMFW Mask Build"
+  short_description: "Analyze and rebuild slpvmfw mask C from Java"
+  default_prompt: "Use $slpvmfw-mask-build to explain or modify qzvm_mask.c through slpvmfw Java sources."
