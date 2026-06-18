@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java App QEMU Build"
+  short_description: "Create, build, test, and debug Java-App applets"
+  default_prompt: "Use $java-app-qemu-build to create a Java-App applet, build it, install it into oneos-sim QEMU, and generate APDU debug scripts."
