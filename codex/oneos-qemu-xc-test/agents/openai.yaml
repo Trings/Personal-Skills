@@ -1,0 +1,4 @@
+interface:
+  display_name: "OneOS QEMU XC Test"
+  short_description: "Run portable oneos-sim QEMU XC suites"
+  default_prompt: "Use $oneos-qemu-xc-test to run the oneos-sim QEMU consistency suite."
