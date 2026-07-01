@@ -1,0 +1,4 @@
+interface:
+  display_name: "COSUP Chain Build"
+  short_description: "Build COS upgrade chains with masks"
+  default_prompt: "Use $cosup-chain-build to verify and run the COSA to COSB to COSC upgrade chain build."
